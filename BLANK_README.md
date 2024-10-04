@@ -87,7 +87,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-[[Bluetooth 13-pin Car Socket Tester]](https://github.com/henrikkoch/13_pin_socket_tester/blob/master/images/13-pin-iso-11446.png)
+[![Bluetooth 13-pin Car Socket Tester].](https://github.com/henrikkoch/13_pin_socket_tester/blob/master/images/13-pin-iso-11446.png)
 
 
 A 13 pin plug is used when towing objects, such as your caravan or an advanced trailer, boat trailer or horsebox. 
