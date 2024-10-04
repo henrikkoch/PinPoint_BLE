@@ -207,11 +207,11 @@ Project Link: [[https://github.com/henrikkoch/13_pin_socket_tester/]](https://gi
 
 <img src="images/13-pin-iso-11446.png" alt="13-pin connector">
 
-<li>Pin 1	Left indicator<pre>Blink Venstre</li>
-<li>Pin 2	Rear fog lamp<pre>Tågelys bag</li>
-<li>Pin 3	Ground [a]<tab>Stel</tab></li>
-<li>Pin 4	Right indicator<tab>Blink Højre</tab></li>
-<li>Pin 5	Right tail lamp [b]<tab>Højre baglys</tab></li>
+<li>Pin 1	Left indicator [Blink Venstre]</li>
+<li>Pin 2	Rear fog lamp [Tågelys bag]</li>
+<li>Pin 3	Ground [a]<tab>Stel</li>
+<li>Pin 4	Right indicatorBlink Højre</li>
+<li>Pin 5	Right tail lamp [b]Højre baglys</li>
 <li>Pin 6	Brake lamp<tab>Bremselys</tab></li>
 <li>Pin 7	Left tail lamp[b]</li>
 <li>Pin 8	Reverse lamp</li>
