@@ -73,6 +73,8 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
     <li><a href="#iso_11446">ISO 11446</a></li>
+    <li><a href="pin_definitions">Pin Definitions</a><li>
+    
   </ol>
 </details>
 
@@ -201,6 +203,21 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
  https://en.wikipedia.org/wiki/ISO_11446
  ISO 11446:2004 specifies a 13-pole electrical connector between towing and towed vehicles with 12 volt electrical system. It was developed in 1987 by Erich Jaeger[1] to replace older 7-pin plugs.
 
+## pin_definitions
+
+Pin 1	Left indicator
+Pin 2	Rear fog lamp
+Pin 3	Ground [a]
+Pin 4	Right indicator
+Pin 5	Right tail lamp [b]
+Pin 6	Brake lamp
+Pin 7	Left tail lamp[b]
+Pin 8	Reverse lamp
+Pin 9	Permanent power
+Pin 10	Switched supply (for fridge)
+Pin 11	Ground for pin 10 [a]
+Pin 12	Trailer Presence Detection[c]
+Pin 13	Ground for pin 9 [a]
 
 
 
