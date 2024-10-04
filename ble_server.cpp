@@ -21,7 +21,7 @@ const int ledPin = 2; // Use the appropriate GPIO pin for your setup
 // See the following for generating UUIDs:
 // https://www.uuidgenerator.net/
 
-#HJK UUID		34103d05-6633-4a0c-bd4a-0b238d203a45
+#define HJK UUID		34103d05-6633-4a0c-bd4a-0b238d203a45
 
 #define SERVICE_UUID        "19b10000-e8f2-537e-4f6c-d104768a1214"
 #define SENSOR_CHARACTERISTIC_UUID "19b10001-e8f2-537e-4f6c-d104768a1214"
