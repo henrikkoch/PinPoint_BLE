@@ -80,7 +80,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[[Wireless Bluetooth Enabled 13 pin Car Socket Tester]] (https://github.com/henrikkoch/13_pin_socket_tester/blob/master/images/13-pin-iso-11446.png)
+[![Wireless Bluetooth Enabled 13 pin Car Socket Tester]](https://github.com/henrikkoch/13_pin_socket_tester/blob/master/images/13-pin-iso-11446.png)
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
