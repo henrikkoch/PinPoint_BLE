@@ -87,6 +87,16 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+A 13 pin plug is used when towing objects, such as your caravan or an advanced trailer, boat trailer or horsebox. 
+
+This plugged gives you all the light functions including reverse, it can also supply the permanent and fridge feeds. 
+
+This plugs into the 13 pin socket mounted on the tow bar.
+
+
+
+
+
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
