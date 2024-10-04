@@ -180,7 +180,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [[https://github.com/your_username/repo_name](https://github.com/henrikkoch/13_pin_socket_tester/)]
+Project Link: [[https://github.com/henrikkoch/13_pin_socket_tester/](https://github.com/henrikkoch/13_pin_socket_tester/)]
 
 
 <!-- ACKNOWLEDGEMENTS -->
