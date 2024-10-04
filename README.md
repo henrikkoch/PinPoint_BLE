@@ -205,6 +205,8 @@ Project Link: [[https://github.com/henrikkoch/13_pin_socket_tester/]](https://gi
 
 ## pin_definitions
 
+<img src="images/13-pin-iso-11446.png" alt="Logo" width="80" height="80">
+
 <li>Pin 1	Left indicator<tab>Blink Venstre</tab></li>
 <li>Pin 2	Rear fog lamp<tab>Tågelys bag</tab></li>
 <li>Pin 3	Ground [a]<tab>Stel</tab></li>
