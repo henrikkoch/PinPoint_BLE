@@ -205,12 +205,12 @@ Project Link: [[https://github.com/henrikkoch/13_pin_socket_tester/]](https://gi
 
 ## pin_definitions
 
-<li>Pin 1	Left indicator</li>
-<li>Pin 2	Rear fog lamp</li>
-<li>Pin 3	Ground [a]</li>
-<li>Pin 4	Right indicator</li>
-<li>Pin 5	Right tail lamp [b]</li>
-<li>Pin 6	Brake lamp</li>
+<li>Pin 1	Left indicator<tab>Blink Venstre</tab></li>
+<li>Pin 2	Rear fog lamp<tab>Tågelys bag</tab></li>
+<li>Pin 3	Ground [a]<tab>Stel</tab></li>
+<li>Pin 4	Right indicator<tab>Blink Højre</tab></li>
+<li>Pin 5	Right tail lamp [b]<tab>Højre baglys</tab></li>
+<li>Pin 6	Brake lamp<tab>Bremselys</tab></li>
 <li>Pin 7	Left tail lamp[b]</li>
 <li>Pin 8	Reverse lamp</li>
 <li>Pin 9	Permanent power</li>
