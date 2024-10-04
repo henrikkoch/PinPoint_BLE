@@ -73,7 +73,7 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
     <li><a href="#iso-11446">ISO 11446</a></li>
-    <li><a href="pin-definitions">Pin Definitions</a><li>
+    <li><a href="#pin-definitions">Pin Definitions</a></li>
     
   </ol>
 </details>
