@@ -36,7 +36,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Bluetooth 13 pin Car Socket </h3>
 
   <p align="center">
     project_description
@@ -51,7 +51,6 @@
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </p>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -81,7 +80,6 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -89,6 +87,7 @@
 
 [![Bluetooth 13-pin Car Socket Tester].](https://github.com/henrikkoch/13_pin_socket_tester/blob/master/images/13-pin-iso-11446.png)
 
+<img src="images/logo.png" alt="Logo" width="80" height="80">
 
 A 13 pin plug is used when towing objects, such as your caravan or an advanced trailer, boat trailer or horsebox. 
 
