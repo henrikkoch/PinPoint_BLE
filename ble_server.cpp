@@ -16,14 +16,12 @@ bool deviceConnected = false;
 bool oldDeviceConnected = false;
 uint32_t value = 0;
 
-const int ledPin = 2; // Use the appropriate GPIO pin for your setup
+const int ledPin = 4; // Use the appropriate GPIO pin for your setup
 
 // See the following for generating UUIDs:
 // https://www.uuidgenerator.net/
 
-#define HJK UUID		34103d05-6633-4a0c-bd4a-0b238d203a45
-
-#define SERVICE_UUID        "19b10000-e8f2-537e-4f6c-d104768a1214"
+#define SERVICE_UUID "34103d05-6633-4a0c-bd4a-0b238d203a45"
 #define SENSOR_CHARACTERISTIC_UUID "19b10001-e8f2-537e-4f6c-d104768a1214"
 #define LED_CHARACTERISTIC_UUID "19b10002-e8f2-537e-4f6c-d104768a1214"
 
@@ -59,7 +57,7 @@ void setup() {
   pinMode(ledPin, OUTPUT);
 
   // Create the BLE Device
-  BLEDevice::init("ESP32");
+  BLEDevice::init("TestPoint");
 
   // Create the BLE Server
   pServer = BLEDevice::createServer();
