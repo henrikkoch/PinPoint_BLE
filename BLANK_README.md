@@ -77,6 +77,9 @@ This plugged gives you all the light functions including reverse, it can also su
 
 This plugs into the 13 pin socket mounted on the tow bar.
 
+Schematics for the ESP32S CAM:
+https://randomnerdtutorials.com/esp32-cam-ai-thinker-pinout/
+
 
 
 
